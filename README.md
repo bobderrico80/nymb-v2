@@ -1,4 +1,4 @@
-# Theme for [www.notyourmommysblog.com](https://www.notyourmommysblog.com)
+# Theme for [www.notyourmommysblog.com](http://www.notyourmommysblog.com)
 
 Based off of Sage. Documentation for Sage continues below...
 
