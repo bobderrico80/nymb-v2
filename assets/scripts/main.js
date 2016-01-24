@@ -139,13 +139,13 @@ $(function() {
   };
 
   var buttonLeft = function() {
-    slideLeft();
+    slideRight();
     clearInterval(timer);
     timer = timerFunction();
   };
 
   var buttonRight = function() {
-    slideRight();
+    slideLeft();
     clearInterval(timer);
     timer = timerFunction();
   };
